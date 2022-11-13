@@ -14,6 +14,7 @@ from sklearn.metrics import accuracy_score
 st.write("""
 # Explore different ML models and Datasets
 Daikhtay Han kon sa best ha in may say?
+By Masoodullah Thanks Codanics
 """)
 
 # Data set k name ak box may daal ki sidebar pay laga do 
